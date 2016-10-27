@@ -1,0 +1,16 @@
+PODS:
+  - Jason (0.1.0)
+
+DEPENDENCIES:
+  - Jason (from `../`)
+
+EXTERNAL SOURCES:
+  Jason:
+    :path: ../
+
+SPEC CHECKSUMS:
+  Jason: 94813444d7f782490235e047cac54ed286cc6952
+
+PODFILE CHECKSUM: 1afdfe1c78b486070d2ba3f9e546b97e2acd6185
+
+COCOAPODS: 1.1.1
